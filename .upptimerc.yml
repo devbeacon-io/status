@@ -6,6 +6,8 @@ sites:
     url: https://devbeacon.io
   - name: App
     url: https://app.devbeacon.io
+  - name: Docs
+    url: https://docs.devbeacon.io
 
 status-website:
   cname: status.devbeacon.io
