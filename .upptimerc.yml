@@ -14,7 +14,7 @@ sites:
 status-website:
   cname: status.devbeacon.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Beacon Status
+  name: DevBeacon Status
   introTitle: ''
   introMessage: ''
   navbar:
