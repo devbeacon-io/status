@@ -58,17 +58,19 @@
     "url": "https://api.devbeacon.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.devbeacon.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 100,
-    "timeWeek": 178,
-    "timeMonth": 181,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 238,
+    "timeDay": 107,
+    "timeWeek": 170,
+    "timeMonth": 178,
+    "timeYear": 238,
+    "dailyMinutesDown": {
+      "2024-05-23": 0
+    }
   }
 ]
