@@ -22,7 +22,7 @@
     "url": "https://app.devbeacon.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.devbeacon.io.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 634,
     "timeYear": 484,
     "dailyMinutesDown": {
+      "2024-10-05": 0,
       "2024-06-01": 27,
       "2024-05-31": 55
     }
